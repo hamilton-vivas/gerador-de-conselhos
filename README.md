@@ -51,7 +51,7 @@ Para visualizar e executar o projeto localmente, certifique-se de ter um navegad
 
 1. Clone este repositório para o seu ambiente local usando o comando:
    ```
-   git clone https://seu-repositorio.git
+   git clone https://github.com/hamilton-vivas/gerador-de-conselhos.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador.
