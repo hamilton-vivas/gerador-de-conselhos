@@ -1,7 +1,7 @@
 
 ---
 
-# Advice Generator Ap
+# Advice Generator App
 
 Este é um projeto de um aplicativo gerador de conselhos desenvolvido como parte de um desafio do Frontend Mentor. O aplicativo utiliza HTML, CSS e JavaScript para criar uma interface interativa que consome uma API externa para gerar conselhos aleatórios ao clicar em um botão.
 
